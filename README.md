@@ -19,7 +19,7 @@ This project analyses specific areas that aid decision making in every business 
    2. Brand Analysis
    3. Geo-Location Analysis
 
-## 📂 Dataset
+## 📂 DATASET
 This is a cropped version of a table containing 1047 datasets. It captures sales_ID, sales_rep, emails(of sales_rep), brands(beer & non beer),plant_cost,unit_price,
 quantity,cost,profit,countries,region,months,years.
 
@@ -88,6 +88,13 @@ Geo-Location Analysis Question
    3. Country with the highest profit of the fourth quarter in 2019?
 
 TO VIEW SOLUTION AND ANSWER TO EACH QUESTION  [CLICK](https://github.com/nzehh/international-breweries-/blob/main/Breweries%20SQL/international_breweries%20script.sql)
+
+## RECOMMENDATIONS
+Based on the data analysis, I recommend the following:
+
+ 1. Focus on expanding the brand's presence in high-growth markets such as Nigeria, Senegal and Ghana.
+ 2. Invest in developing new and marketing strategies to appeal to a wider range of consumers.
+ 3. Use data and analytics to improve marketing and sales strategies.
 
 
 
